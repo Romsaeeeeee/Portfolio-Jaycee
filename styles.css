@@ -352,7 +352,7 @@ body {
   font-family: inherit;
   font-size: inherit;
   cursor: pointer;
-  background-color: #051923;
+  background-color: #00a6fb;
   border-radius: 10px;
   font-size: 17px;
   transition: ease-out 0.5s;
@@ -362,8 +362,8 @@ body {
 .project2 button:hover,
 .project3 button:hover,
 .project4 button:hover {
-  color: #ffffff;
-  background-color: #00a6fb;
+  color: #00a6fb;
+  background-color: #ffffff;
   transition: ease-in 0.5s;
 }
 
